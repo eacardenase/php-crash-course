@@ -8,7 +8,16 @@
   <title>Document</title>
 </head>
 <body>
-Hello World
+
+<?php
+  echo "Hello World from PHPStorm";
+  echo " and PHP"
+?>
+
+<?php
+  echo "<br/>";
+  echo "Hello from another tag";
+?>
 <!--Echo HTML tags-->
 </body>
 </html>
